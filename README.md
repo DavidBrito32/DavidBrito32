@@ -1,6 +1,6 @@
 ### Olá, Eu sou Davi Brito seja bem vindo ao meu perfil: 👏 🤓
 
-### Em busca de oportunidades de emprego, procuro posições como Desenvolvedor (Fullstack) 👨🏻💻.
+### Em busca de oportunidades de emprego, procuro posições como Desenvolvedor (Fullstack).
 Estudante de Ciências da Computação e Engenharia de Software, apaixonado por tecnologia e sedento por novos desafios. 
 Comprometido em aprimorar minhas habilidades e contribuir em projetos inovadores. Trabalhar em equipe é essencial para mim, 
 e estou sempre aberto a aprender com diferentes perspectivas. Busco oportunidades que me permitam crescer e fazer a diferença no mundo através da tecnologia. 
