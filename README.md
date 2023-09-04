@@ -13,10 +13,6 @@ Vamos juntos criar soluções incríveis! 🚀💡
 [![Whatsapp](	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](+5585996652002)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](+5585996652002)
 
-![Davidbrito32 GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidBrito32&show_icons=true&theme=synthwave)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidBrito32&layout=donut)](https://github.com/DavidBrito32/github-readme-stats)
-
 ### Tecnologias que utilizo no meu dia-a-dia
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
