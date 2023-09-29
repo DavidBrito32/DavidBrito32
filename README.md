@@ -3,10 +3,6 @@
 ![Black and Beige Minimal Professional Portfolio Presentation](https://github.com/DavidBrito32/DavidBrito32/assets/125412383/92230af0-0443-4a93-b8b0-b9331fc87d28)
 
 🚀 Apaixonado por Tecnologia e Inovação 🌟 | Estudante de Ciências da Computação e Engenharia de Software 💻 | Comprometido em criar soluções inovadoras 🛠️ | Amante de Desenvolvimento FullStack e UX/UI Design 🎨 | Sempre em busca de novos desafios e aprendizados 📚 | Colaborador entusiástico, pronto para contribuir em projetos incríveis! 💡 | Vamos criar o futuro juntos! 🌐
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidBrito32&layout=donut)](https://github.com/DavidBrito32/github-readme-stats)
-
-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-brito-0ba17820b/) 
 [![Whatsapp](	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](+5585996652002)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](+5585996652002)
